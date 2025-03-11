@@ -2,7 +2,7 @@ Summary:	Sphinx SVG to PDF converter extension
 Summary(pl.UTF-8):	Rozszerzenie Sphinksa konwertujące SVG do PDF
 Name:		python3-sphinxcontrib-svg2pdfconverter
 Version:	1.2.2
-Release:	2
+Release:	3
 License:	BSD
 Group:		Libraries/Python
 #Source0Download: https://pypi.org/simple/sphinxcontrib-svg2pdfconverter/
